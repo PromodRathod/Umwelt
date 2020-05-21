@@ -31,3 +31,6 @@ To transmit all this information we've designed a belt and anklets with a series
 
 # Modifications
 We're going to integrate IR camera with our project to detect fire or any hot object to prevent accidents. Also, accelerometers will be integrated. We can use AI to detect movements and identify objects. And many more modifications to make the device even better.
+
+# Snapshot
+![IMG_20190124_122642](https://user-images.githubusercontent.com/46192924/82535664-d4f3be00-9b64-11ea-89eb-f692dba6eb95.jpg)
